@@ -1,4 +1,4 @@
-# Prac
+# Practice
 
 
 This is my personal repo to store some Python practice when I found something interesting online. 
